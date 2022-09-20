@@ -1,0 +1,48 @@
+.App {
+  font-family: "Dangrek", cursive;
+  text-align: center;
+}
+body {
+  background-color: #fdba74;
+  margin: 0;
+  padding: 0;
+}
+#navigation {
+  background-color: #c2410c;
+  height: 60px;
+  font-size: 2.2rem;
+  font-weight: bolder;
+  padding: 1rem;
+  border-radius: 0 0 30px 0;
+}
+#text {
+  width: 50vw;
+  margin: auto;
+  margin-top: 40px;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+#input-emoji {
+  margin-top: 30px;
+  width: 30vw;
+  height: 40px;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+#sub-text {
+  width: 50vw;
+  margin: auto;
+  margin-top: 30px;
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+#image {
+  width: 400px;
+  height: auto;
+  mix-blend-mode: multiply;
+  margin-left: 35vw;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  display: block;
+}
